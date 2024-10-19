@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left">Hey there! 👋 I’m Amit Bhadra, a Cross-Platform App Developer from India, turning ideas into immersive digital experiences. Let’s create something extraordinary together!</h2>
+<h2 align="left">Hey there! 👋 I’m Amit Bhadra, a Cross-Platform App Developer from India, turning ideas into immersive digital experiences.</h2>
 
 ###
 
