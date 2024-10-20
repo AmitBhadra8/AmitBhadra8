@@ -119,7 +119,10 @@
 
   <tr>
     <td>Languages</td>
-    <td></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+    </td>
   </tr>
 
   <tr>
