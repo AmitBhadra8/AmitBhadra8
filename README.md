@@ -104,6 +104,47 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="wordpress logo"  />
 </div>
 
+<div>
+  <table style="width:100%">
+
+  <tr>
+    <h5> <th style="width:20%">Category</th> </h5> 
+    <h5> <th>Skills</th> </h5>
+  </tr>
+
+  <tr>
+    <td>Frameworks</td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td>Languages</td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td>Styling and Frameworks</td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td>Database</td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td>Services and Tools</td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td>API</td>
+    <td></td>
+  </tr>
+
+</table>
+</div>
+
 ###
 
 <h3 align="left">Connect with Me :</h3>
