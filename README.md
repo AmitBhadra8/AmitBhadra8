@@ -137,8 +137,6 @@
   <img width="12" />
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
   <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="aws logo"  />
-  <img width="12" />
     </td>
   </tr>
 
@@ -146,8 +144,6 @@
     <td>API</td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo"  />
-  <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="postman logo"  />
   <img width="12" />
     </td>
   </tr>
