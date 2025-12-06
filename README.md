@@ -4,8 +4,6 @@
 
 ## Hey, Amit here
 
-<img align="right" height="160" src="https://i.gifer.com/6e9T.gif" />
-
 ### About me
 - Backend developer in training
 - Interest in Flutter and Node.js
