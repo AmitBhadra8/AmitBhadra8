@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left">Hey there! 👋 I’m Amit Bhadra, a Cross-Platform App Developer from India, turning ideas into immersive digital experiences.</h2>
+<h2 align="left">Hey there Amit here, </h2>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on SmartWallet - A Complete Finance App<br>- 🌱 I’m currently learning ML - Deep Learning<br>- 👯 I’m looking to collaborate on Deep Learning & Google Cloud</p>
+
 
 ###
 
