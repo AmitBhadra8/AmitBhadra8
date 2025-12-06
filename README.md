@@ -32,7 +32,6 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="28"/>
       </td>
     </tr>
-
     <tr>
       <td>Languages</td>
       <td>
@@ -43,7 +42,6 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="28"/>
       </td>
     </tr>
-
     <tr>
       <td>Styling</td>
       <td>
@@ -51,7 +49,6 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="28"/>
       </td>
     </tr>
-
     <tr>
       <td>Database</td>
       <td>
@@ -60,7 +57,6 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="28"/>
       </td>
     </tr>
-
     <tr>
       <td>Tools</td>
       <td>
@@ -68,7 +64,6 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="28"/>
       </td>
     </tr>
-
     <tr>
       <td>API</td>
       <td>
